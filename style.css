@@ -1,0 +1,39 @@
+table{
+    width: 400px;
+    border: solid black 1px;
+}
+
+th{
+        color: black;
+        background-color: lightgray;
+}
+td{
+    color: white;
+    background-color: gray;
+}
+
+#H{
+    color: black;
+    background-color: lightgray;
+    
+}
+#L{
+    color: black;
+    background-color: lightgray;
+    
+}
+#N{
+    color: black;
+    background-color: lightgray;
+    
+}
+#K{
+    color: black;
+    background-color: lightgray;
+    
+}
+#R{
+    color: black;
+    background-color: lightgray;
+    
+}
